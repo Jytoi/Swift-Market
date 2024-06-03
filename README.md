@@ -23,6 +23,6 @@ The above code does this...
 | Dev A | Developer |
 | Dev B | CTO |
 
-![Image](http://lh7-us.googleusercontent.com/bQpkg-LfpjmUufGQhiZAZwfxEfpgeor8_cQWqEdoYoL4MWWPpbPUVJujcLOSp-C1EUiveGwGtWjsxOU3yJ3nikcnDQkYZ-BMbHg37HewNUucHPKYnHDrpDNXu_VWZ0gQOOUQU93TKhauhcamNXs).
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.almaya.ae%2Fblog-detail%2Fadvantages-of-supermarket-to-consumer&psig=AOvVaw0-dfjHZbWS4iz9yHihkKxM&ust=1717503569177000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLinjra2v4YDFQAAAAAdAAAAABAW).
 
 
