@@ -23,7 +23,6 @@ The above code does this...
 | Dev A | Developer |
 | Dev B | CTO |
 
-![Image](http://lh7-us.googleusercontent.com/bQpkg-LfpjmUufGQhiZAZwfxEfpgeor8_cQWqEdoYoL4MWWPpbPUVJujcLOSp-C1EUiveGwGtWjsxOU3yJ3nikcnDQkYZ-BMbHg37HewNUucHPKYnHDrpDNXu_
-VWZ0gQOOUQU93TKhauhcamNXs).
+![Image](http://lh7-us.googleusercontent.com/bQpkg-LfpjmUufGQhiZAZwfxEfpgeor8_cQWqEdoYoL4MWWPpbPUVJujcLOSp-C1EUiveGwGtWjsxOU3yJ3nikcnDQkYZ-BMbHg37HewNUucHPKYnHDrpDNXu_VWZ0gQOOUQU93TKhauhcamNXs).
 
 
